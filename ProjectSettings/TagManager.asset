@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - Wall
+  - RoomSpawnTrigger
+  - Floor
+  - Chest
+  - noCollision
+  - SceneManager
+  - Laser
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - BackgroundFloor
+  - Anti-TeleportWall
+  - Player
+  - Doors
+  - Minimap Icons
+  - Explosion
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 3486464947
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ItemSprites
+    uniqueID: 3702493145
+    locked: 0
+  - name: Minimap
+    uniqueID: 2331178993
+    locked: 0
